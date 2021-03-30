@@ -1,15 +1,15 @@
-Turkey Sandwich
+# Turkey Sandwich
 
-1 person
+## Servings: 1 person
 
-5 minutes
+## Time to prepare: 5 minutes
 
-Bread, Turkey, Mayo, Mustard, Lettuce, Sliced Cheese, Tomato, Avocado
-
-
-Toaster, Knife, Spoon, Plate
+## Ingredients: Bread, Turkey, Mayo, Mustard, Lettuce, Sliced Cheese, Tomato, Avocado
 
 
+## Equipment needed: Toaster, Knife, Spoon, Plate
+
+## Steps for preparation:
 1) Place 2 slices of bread in the toaster
 2) Once the bread is toasted, lather one side with mayo and mustard
 3) Slice the lettuce, tomato and avocado
@@ -19,8 +19,8 @@ Toaster, Knife, Spoon, Plate
 7) Slice in half
 8) Enjoy!
 
-
+## Notes
 Make sure the avocado is ripe!
 
 
-Codemates_13
+### Codemates_13 #
