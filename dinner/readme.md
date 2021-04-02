@@ -19,6 +19,7 @@
 
 ### Notes:
 Make sure to add salt to water to cook spaghetti. 
+Option to add parmesan cheese and fresh basil before serving!
 
 
 ### Codemates #
