@@ -9,7 +9,7 @@
 - 1/4 teaspoon nutmeg
 - 2 tablespoons sugar
 - 4 tablespoons butter
-- 4 eggs
+- 4 eggs :egg:
 - 1/4 cup milk
 - 1/2 teaspoon vanilla extract
 - 8 slices white bread
