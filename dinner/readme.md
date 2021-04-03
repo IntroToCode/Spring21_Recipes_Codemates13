@@ -1,13 +1,13 @@
-# Ground Beef Spaghetti
+# Ground Beef Spaghetti 🍝
 
 ## Servings: 4 people
 
-## Time to prepare: 60 minutes
+## Time to prepare: 60 minutes 🕐
 
 ## Ingredients: cloves garlic, green bell pepper, diced tomatoes, tomato paste, dried oregano, dried basil, salt, black pepper, spaghetti
 
 
-## Equipment needed:a pot, a pan
+## Equipment needed:a pot, a pan 
 
 
 ## Steps for preparation:
@@ -18,8 +18,10 @@
 
 
 ### Notes:
-Make sure to add salt to water to cook spaghetti. 
+
+Make sure to add salt to water to cook spaghetti. 🧂!
 Option to add parmesan cheese and fresh basil before serving!
+
 
 
 ### Codemates #
