@@ -4,7 +4,7 @@
 
 ## Time to prepare: 5 minutes
 
-## Ingredients: Bread*2 slides, Turkey*2 slides, Mayo*1 teaspoon, Mustard*1 teaspoon, Lettuce* 20g, Sliced Cheese*2, Tomato*3 slides, Avocado*1
+## Ingredients: Bread*2 slices, Turkey*2 slices, Mayo*1 teaspoon, Mustard*1 teaspoon, Lettuce* 20g, Sliced Cheese*2, Tomato*3 slices, Avocado*1
 
 
 ## Equipment needed: Toaster, Knife, Spoon, Plate
